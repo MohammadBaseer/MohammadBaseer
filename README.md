@@ -15,9 +15,9 @@
 
 - 🌱 I’m currently learning **everything 🤣**<br>
 
-- 👯 I’m looking to collaborate on <a href="www.virabarez.com">E-Commerce</a><br>
+- 👯 I’m looking to collaborate on <a href="http://www.virabarez.com">E-Commerce</a><br>
 
-- 🤝 I’m looking for help with <a href="www.virabarez.com">E-Commerce</a><br>
+- 🤝 I’m looking for help with <a href="http://www.virabarez.com">E-Commerce</a><br>
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohammadBaseer](https://github.com/MohammadBaseer)<br>
 
