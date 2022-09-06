@@ -11,13 +11,13 @@
 
 <p align="left"> <a href="https://twitter.com/mohamma36141583" target="blank"><img src="https://img.shields.io/twitter/follow/mohamma36141583?logo=twitter&style=for-the-badge" alt="mohamma36141583" /></a> </p><br>
 
-- 🔭 I’m currently working on [E-Commerce](www.virabarez.com) <br>
+- 🔭 I’m currently working on <a href="www.virabarez.com">E-Commerce</a><br>
 
 - 🌱 I’m currently learning **everything 🤣**<br>
 
-- 👯 I’m looking to collaborate on [E-Commerce](www.virabarez.com)<br>
+- 👯 I’m looking to collaborate on <a href="www.virabarez.com">E-Commerce</a><br>
 
-- 🤝 I’m looking for help with [E-Commerce](www.virabarez.com)<br>
+- 🤝 I’m looking for help with <a href="www.virabarez.com">E-Commerce</a><br>
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohammadBaseer](https://github.com/MohammadBaseer)<br>
 
