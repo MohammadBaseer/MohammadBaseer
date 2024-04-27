@@ -9,21 +9,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadbaseer" alt="mohammadbaseer" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mohamma36141583" target="blank"><img src="https://img.shields.io/twitter/follow/mohamma36141583?logo=twitter&style=for-the-badge" alt="mohamma36141583" /></a> </p><br>
 
-- 🔭 I’m currently working on <a href="http://www.virabarez.com">E-Commerce</a><br>
 
-- 🌱 I’m currently learning **everything 🤣**<br>
+- 🌱 I’m currently learning **everything 🤣**<be>
 
-- 👯 I’m looking to collaborate on <a href="http://www.virabarez.com">E-Commerce</a><br>
+<!-- - 🔭 I’m currently working on <a href="http://www.virabarez.com">E-Commerce</a><br>
 
-- 🤝 I’m looking for help with <a href="http://www.virabarez.com">E-Commerce</a><br>
+
+
+  - 👯 I’m looking to collaborate on <a href="http://www.virabarez.com">E-Commerce</a><br>
+
+- 🤝 I’m looking for help with <a href="http://www.virabarez.com">E-Commerce</a><br> -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohammadBaseer](https://github.com/MohammadBaseer)<br>
 
 <!-- - 📝 I regularly write articles on [xyz.com](xyz.com)<br> -->
 
-- 📫 How to reach me **mohammadbaseer25@gmail.com** <br>
+<!-- - 📫 How to reach me **mohammadbaseer25@gmail.com** <br> -->
 
 <!-- - 📄 Know about my experiences [xyz.com](xyz.com)<br> -->
 
