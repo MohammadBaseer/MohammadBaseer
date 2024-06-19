@@ -2,7 +2,7 @@
 <h3>
 🌱 I’m currently learning everything 🤣  <br>
 👯 I’m looking to collaborate with other content creators  <br>
-🥅 2021 Goals: Contribute more to Open Source projects  <br>
+🥅 2024 Goals: Contribute more to Open Source projects  <br>
 ⚡ Fun fact: I love to Code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadbaseer&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadbaseer" /> </p>
@@ -21,7 +21,7 @@
 
 - 🤝 I’m looking for help with <a href="http://www.virabarez.com">E-Commerce</a><br> -->
 
-- 👨‍💻 All of my projects are available at [https://github.com/MohammadBaseer](https://github.com/MohammadBaseer)<br>
+
 
 <!-- - 📝 I regularly write articles on [xyz.com](xyz.com)<br> -->
 
