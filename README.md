@@ -46,34 +46,36 @@ I'm passionate about incorporating cutting-edge solutions that promote efficienc
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mohammadbaseer25@gmail.com)
 
 ---
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Fake Store API]([https://fake-store-phi-seven.vercel.app]))
-- [Fake Store Firebase]([https://fake-store-firebase.vercel.app])
-- [Rick & Morty]([https://rick-and-morty-characters-api.vercel.app])
-<!--- [Fake Store Firebase]([https://fake-store-firebase.vercel.app])
- BLOG-POST-LIST:END -->
-
----
-
 ### 🎯 Projects
 
-#### Project Name
-Description: A brief description of your project.
-- Technologies used: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+<!-- BLOG-POST-LIST:START -->
+- [Fake Store API](https://fake-store-phi-seven.vercel.app)  
+  - Technologies used:  
+    ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+    ![Fetch API](https://img.shields.io/badge/-Fetch%20API-FF6F00?style=flat-square&logo=api&logoColor=white)
 
-[![Read More](https://img.shields.io/badge/-Read%20More-blue?style=flat-square)](project-url)
+- [Fake Store Firebase](https://fake-store-firebase.vercel.app)  
+  - Technologies used:  
+    ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+    ![XML](https://img.shields.io/badge/-XML-FFA500?style=flat-square&logo=xml&logoColor=black)
+    ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+    ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+    ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+    ![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-#### Another Project
-Description: A brief description of another project.
-- Technologies used: ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
-[![Read More](https://img.shields.io/badge/-Read%20More-blue?style=flat-square)](project-url)
+- [Rick & Morty](https://rick-and-morty-characters-api.vercel.app)  
+  - Technologies used:  
+    ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+    ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+    ![Apollo Server](https://img.shields.io/badge/-Apollo%20Server-311C87?style=flat-square&logo=apollographql&logoColor=white)
+    ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
+<!-- 
 ### 🏆 Achievements
 
 - [Your achievement title](achievement-url)
