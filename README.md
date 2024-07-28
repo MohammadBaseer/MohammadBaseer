@@ -1,51 +1,105 @@
-<h1 align="center">Hi 👋, I'm Mohammad Baseer Rahimi</h1>
-<h3>
-🌱 I’m currently learning everything 🤣  <br>
-👯 I’m looking to collaborate with other content creators  <br>
-🥅 2024 Goals: Contribute more to Open Source projects  <br>
-⚡ Fun fact: I love to Code</h3>
+# 👋 Hi there, I'm Baseer Rahimi!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadbaseer&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadbaseer" /> </p>
+### 🌟 Full Stack Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadbaseer" alt="mohammadbaseer" /></a> </p>
+---
 
+I am a Full Stack Developer proficient in:
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML5**
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white) **CSS/SASS**
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) **JavaScript/TypeScript**
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) **React.js**
+- ![REST API](https://img.shields.io/badge/-REST%20API-FF6F00?style=flat-square&logo=restful&logoColor=white) **REST API's**
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) **Node.js/Express.js**
+- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) **GraphQL API**
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) **Next.js**
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) **PHP**
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose) **Mongoose/MongoDB**
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) **MySQL/NoSQL**
 
+---
 
-- 🌱 I’m currently learning **everything 🤣**<be>
+### 👨‍💻 About Me
+I'm passionate about incorporating cutting-edge solutions that promote efficiency and innovation in every project I undertake. My goal is to continuously improve my skills and contribute to impactful projects.
 
-<!-- - 🔭 I’m currently working on <a href="http://www.virabarez.com">E-Commerce</a><br>
+---
 
+### 🔧 Technologies & Tools
 
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-  - 👯 I’m looking to collaborate on <a href="http://www.virabarez.com">E-Commerce</a><br>
+---
 
-- 🤝 I’m looking for help with <a href="http://www.virabarez.com">E-Commerce</a><br> -->
+### 📈 GitHub Stats
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
+---
 
-<!-- - 📝 I regularly write articles on [xyz.com](xyz.com)<br> -->
+### 📫 Get in Touch
 
-<!-- - 📫 How to reach me **mohammadbaseer25@gmail.com** <br> -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-username)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-<!-- - 📄 Know about my experiences [xyz.com](xyz.com)<br> -->
+---
 
-- ⚡ Fun fact **Funny**<br>
+### 📝 Latest Blog Posts
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/mohammad-baseer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mohammad-baseer" height="30" width="40" /></a>
-<a href="https://twitter.com/mohamma36141583" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamma36141583" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammad-baseer-aab2aa132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-baseer-aab2aa132" height="30" width="40" /></a>
-<a href="https://fb.com/mohammad.baseer.9828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammad.baseer.9828" height="30" width="40" /></a>
-<a href="https://instagram.com/mohammadbaseer25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammadbaseer25" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucplsaucgznsaodqx8wryskg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucplsaucgznsaodqx8wryskg" height="30" width="40" /></a>
-</p>
+<!-- BLOG-POST-LIST:START -->
+- [Your latest blog post title](your-blog-post-url)
+- [Another blog post title](your-blog-post-url)
+<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadbaseer&show_icons=true&locale=en&layout=compact" alt="mohammadbaseer" /></p>
+### 🎯 Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadbaseer&show_icons=true&locale=en" alt="mohammadbaseer" /></p>
+#### Project Name
+Description: A brief description of your project.
+- Technologies used: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadbaseer&" alt="mohammadbaseer" /></p>
+[![Read More](https://img.shields.io/badge/-Read%20More-blue?style=flat-square)](project-url)
+
+#### Another Project
+Description: A brief description of another project.
+- Technologies used: ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+[![Read More](https://img.shields.io/badge/-Read%20More-blue?style=flat-square)](project-url)
+
+---
+
+### 🏆 Achievements
+
+- [Your achievement title](achievement-url)
+
+---
+
+### 📚 Education
+
+- **Degree Name** in **Field of Study**
+  - University Name, Year of Graduation
+
+---
+
+### 🌱 Currently Learning
+
+- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+### 📅 Open to Opportunities
+
+I'm open to exciting new opportunities where I can contribute, learn, and grow. Feel free to reach out if you have an opportunity that matches my skill set.
+
+---
+
+### 🤝 Support
+
+If you find my projects or work helpful, consider buying me a coffee:
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/your-coffee-url)
