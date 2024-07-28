@@ -36,24 +36,25 @@ I'm passionate about incorporating cutting-edge solutions that promote efficienc
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadBaseer&show_icons=true&theme=radical)
 
 ---
 
 ### 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-username)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/baseer-rahimi)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mohammadbaseer25@gmail.com)
 
 ---
 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Your latest blog post title](your-blog-post-url)
-- [Another blog post title](your-blog-post-url)
-<!-- BLOG-POST-LIST:END -->
+- [Fake Store API]([https://fake-store-phi-seven.vercel.app]))
+- [Fake Store Firebase]([https://fake-store-firebase.vercel.app])
+- [Rick & Morty]([https://rick-and-morty-characters-api.vercel.app])
+<!--- [Fake Store Firebase]([https://fake-store-firebase.vercel.app])
+ BLOG-POST-LIST:END -->
 
 ---
 
@@ -78,17 +79,22 @@ Description: A brief description of another project.
 - [Your achievement title](achievement-url)
 
 ---
-
+<!---
 ### 📚 Education
 
 - **Degree Name** in **Field of Study**
-  - University Name, Year of Graduation
+  - Rana University, 2019
+    - BCS Software Engineering. 
+  - Code Academy Berlin, 2024
+    - Intensive and onsite full-time Web Development course for 6 months, with a total of 840 hours of practical project-based work. All projects were carried out using the Agile / SCRUM framework, including code reviews, spikes, and presentations.
 
 ---
-
+-->
 ### 🌱 Currently Learning
 
 - ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+- ![Apollo Server](https://img.shields.io/badge/-Apollo%20Server-311C87?style=flat-square&logo=apollo-graphql&logoColor=white)
+- ![Apollo Client](https://img.shields.io/badge/-Apollo%20Client-311C87?style=flat-square&logo=apollo-graphql&logoColor=white)
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
